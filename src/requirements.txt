@@ -1,0 +1,7 @@
+transformers>=4.35.0
+accelerate 
+bitsandbytes
+fastapi
+torch
+uvicorn
+gradio>=4.0.0
